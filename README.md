@@ -1,2 +1,8 @@
-Springboot 3.1.6 + Gradle(Kotlin DSL) 8.5 
-Multi Module Project Example
+# **Java 17**
+# **Springboot 3.1.6**
+
+# **Gradle 8.5 (Kotlin DSL)** 
+
+# **Multi Module Project Example** 
+
+
