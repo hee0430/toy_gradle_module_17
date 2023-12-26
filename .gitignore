@@ -1,0 +1,19 @@
+# 설정 파일
+.idea/
+.vscode/
+.gradle/
+
+# target, bin 파일
+**/target/
+**/bin/
+
+#auto labeling resource
+distribute/build-resource/*
+
+# 확장자
+*.iml
+
+/backend/logs/*
+/backend/bin/*
+/backend/build/
+/backend/out/
